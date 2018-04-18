@@ -1,7 +1,7 @@
-# Project-Whirlwind-trip-
 Game for Android
 
 Project: Whirlwind trip
+
 Company: self employed
 
 The project “Whirlwind trip” is a casual game in a cartoon style. In essence, the game offers you to go from point A to reach point B and overcome difficult obstacles on your way.
