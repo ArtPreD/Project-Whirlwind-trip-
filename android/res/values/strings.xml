@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WhirlwindTrip</string>
+    <string name="share_title">Whirlwind trip</string>
+    <string name="share_title">Whirlwind trip</string>
+    <string name="share_body">Try this game!</string>
+    <string name="share_url">https://play.google.com/store/apps/details?id=</string>
+    <string name="share_via">Share via</string>
+
+</resources>

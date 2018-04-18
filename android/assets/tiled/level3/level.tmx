@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.0.3" orientation="orthogonal" renderorder="right-down" width="200" height="25" tilewidth="32" tileheight="32" nextobjectid="14">
+ <imagelayer name="image">
+  <image source="../level1/level1.png" width="3200" height="800"/>
+ </imagelayer>
+ <objectgroup name="items">
+  <object id="4" name="finish" x="1334" y="412" width="188" height="154"/>
+  <object id="13" name="player" x="144" y="398" width="204" height="114"/>
+ </objectgroup>
+ <objectgroup name="land">
+  <object id="10" name="land" x="2" y="792">
+   <polygon points="0,0 0,-252 1650,-196 1652,8"/>
+  </object>
+ </objectgroup>
+</map>
